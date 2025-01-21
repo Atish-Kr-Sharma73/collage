@@ -13,8 +13,7 @@ with col2:
     """)
 
 st.header('Course Offered')
-st.subheader('Data science')
+st.subheader('Data science and Machine Learning')
 st.subheader('Data Analysis')
-st.subheader('Data Engineering')
 st.subheader('Python')
 st.subheader('SQL')
